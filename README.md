@@ -51,9 +51,9 @@ I am an MCA student with a keen interest in backend development, system design, 
 ### Work Experience
 
 **Software Testing Intern**  
-QSpiders, Mumbai | Aug 2024 – Nov 2025  
+QSpiders, Mumbai | Aug 2024 – Apr 2025  
 - Trained in Manual and Automation Testing with Java.
 
 **Full Stack Developer Intern**  
-Rigel Infotech | Jun 2024 – Apr 2025  
+Rigel Infotech | Jun 2024 – July 2024  
 - Worked on web applications using HTML, CSS, JavaScript, and Node.js.
